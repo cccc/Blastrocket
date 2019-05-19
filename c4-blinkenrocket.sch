@@ -20,8 +20,12 @@ U 1 1 5CCA04A9
 P 2075 2775
 F 0 "U1" H 1675 1025 50  0000 R CNN
 F 1 "ATtiny88-AU" H 2675 4525 50  0000 R CNN
-F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 2075 2775 50  0001 C CIN
+F 2 "footprints:TQFP-32_7x7mm_P0.8mm_Handsolder" H 2075 2775 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8008.pdf" H 2075 2775 50  0001 C CNN
+F 4 "Microchip Technology" H 2075 2775 50  0001 C CNN "Mfg Name"
+F 5 "ATTINY88-AU" H 2075 2775 50  0001 C CNN "Mfg Part Num"
+F 6 "ATTINY88-AU-ND" H 2075 2775 50  0001 C CNN "Digikey"
+F 7 "IC MCU 8BIT 8KB FLASH 32TQFP" H 2075 2775 50  0001 C CNN "Description"
 	1    2075 2775
 	1    0    0    -1  
 $EndComp
@@ -30,13 +34,13 @@ L Device:Battery_Cell BT1
 U 1 1 5CCA393F
 P 10425 1425
 F 0 "BT1" H 10543 1521 50  0000 L CNN
-F 1 "BK-913" H 10543 1430 50  0000 L CNN
-F 2 "footprints:BAT_BK-913_footprint" V 10425 1485 50  0001 C CNN
-F 3 "http://www.memoryprotectiondevices.com/datasheets/BK-913-datasheet.pdf" V 10425 1485 50  0001 C CNN
-F 4 "MPD (Memory Protection Devices)" H 10425 1425 50  0001 C CNN "Mfg Name"
-F 5 "BK-913 " H 10425 1425 50  0001 C CNN "Mfg Part Num"
-F 6 "BK-913-ND" H 10425 1425 50  0001 C CNN "Digikey"
-F 7 "Battery Retainer Coin, 20.0mm 1 Cell PC Pin " H 10425 1425 50  0001 C CNN "Description"
+F 1 "BAT-HLD-001-THM" H 10543 1430 50  0000 L CNN
+F 2 "footprints:BAT_Linx_BAT-HLD-001-THM" V 10425 1485 50  0001 C CNN
+F 3 "https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-001-thm.pdf" V 10425 1485 50  0001 C CNN
+F 4 "Linx Technologies Inc." H 10425 1425 50  0001 C CNN "Mfg Name"
+F 5 "BAT-HLD-001-THM" H 10425 1425 50  0001 C CNN "Mfg Part Num"
+F 6 "BAT-HLD-001-THM-ND" H 10425 1425 50  0001 C CNN "Digikey"
+F 7 "BATTERY RETAINER COIN PC PIN" H 10425 1425 50  0001 C CNN "Description"
 	1    10425 1425
 	1    0    0    -1  
 $EndComp
@@ -741,7 +745,7 @@ U 1 1 5CE62EEC
 P 8250 3750
 F 0 "U2" H 8100 3450 50  0000 R CNN
 F 1 "24CW640-I_SN" H 8850 4100 50  0000 R CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 9400 3300 50  0001 C CNN
+F 2 "footprints:SOIC-8_4.9x3.9mm_P1.27mm_Handsolder" H 9400 3300 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf" H 8250 3750 50  0001 C CNN
 	1    8250 3750
 	1    0    0    -1  
