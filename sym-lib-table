@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SJ1-3523N)(type Legacy)(uri ${KIPRJMOD}/lib/schematic/SJ1-3523N.lib)(options "")(descr ""))
+  (lib (name LED_Matrix_8x8)(type Legacy)(uri ${KIPRJMOD}/lib/schematic/LED_Matrix_8x8.lib)(options "")(descr ""))
+  (lib (name 24CW640)(type Legacy)(uri ${KIPRJMOD}/lib/schematic/24CW640.lib)(options "")(descr ""))
+)
