@@ -76,6 +76,10 @@ F 0 "R3" V 1818 6500 50  0000 C CNN
 F 1 "16" V 1909 6500 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 1955 6500 50  0001 C CNN
 F 3 "~" H 2025 6500 50  0001 C CNN
+F 4 "RES SMD 16 OHM 1% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-16.0FRCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206FR-0716RL" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    2025 6500
 	0    1    1    0   
 $EndComp
@@ -87,6 +91,10 @@ F 0 "R1" H 2905 6229 50  0000 R CNN
 F 1 "8k2" H 2905 6320 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2905 6275 50  0001 C CNN
 F 3 "~" H 2975 6275 50  0001 C CNN
+F 4 "RES SMD 8.2K OHM 5% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-8.2KERCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206JR-078K2L" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    2975 6275
 	-1   0    0    1   
 $EndComp
@@ -98,6 +106,10 @@ F 0 "R2" H 2905 6679 50  0000 R CNN
 F 1 "6k2" H 2905 6770 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2905 6725 50  0001 C CNN
 F 3 "~" H 2975 6725 50  0001 C CNN
+F 4 "RES SMD 6.2K OHM 5% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-6.2KERCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206JR-076K2L" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    2975 6725
 	-1   0    0    1   
 $EndComp
@@ -109,6 +121,10 @@ F 0 "C1" V 2448 6500 50  0000 C CNN
 F 1 "10 uF" V 2539 6500 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2738 6350 50  0001 C CNN
 F 3 "~" H 2700 6500 50  0001 C CNN
+F 4 "CAP CER 10UF 25V X5R 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "1276-1075-1-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "CL31A106KAHNNNE" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    2700 6500
 	0    1    1    0   
 $EndComp
@@ -127,6 +143,10 @@ F 0 "C2" H 3185 6679 50  0000 R CNN
 F 1 "470 nF" H 3185 6770 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3338 6575 50  0001 C CNN
 F 3 "~" H 3300 6725 50  0001 C CNN
+F 4 "CAP CER 0.47UF 50V X7R 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "1276-1118-1-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "CL31B474KBHNNNE" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    3300 6725
 	-1   0    0    1   
 $EndComp
@@ -337,6 +357,10 @@ F 0 "R6" V 4957 1725 50  0000 C CNN
 F 1 "10k" V 4866 1725 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4680 1725 50  0001 C CNN
 F 3 "~" H 4750 1725 50  0001 C CNN
+F 4 "RES SMD 10K OHM 5% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-10KERCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206JR-0710KL" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    4750 1725
 	0    -1   -1   0   
 $EndComp
@@ -747,6 +771,10 @@ F 0 "U2" H 8100 3450 50  0000 R CNN
 F 1 "24CW640-I_SN" H 8850 4100 50  0000 R CNN
 F 2 "footprints:SOIC-8_4.9x3.9mm_P1.27mm_Handsolder" H 9400 3300 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf" H 8250 3750 50  0001 C CNN
+F 4 "IC EEPROM 64K I2C 1MHZ 8SOIC" H 0   0   50  0001 C CNN "Description"
+F 5 "24CW640-I/SN-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Microchip Technology" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "24CW640-I/SN" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    8250 3750
 	1    0    0    -1  
 $EndComp
@@ -784,6 +812,10 @@ F 0 "R5" H 8930 3279 50  0000 R CNN
 F 1 "10k" H 8930 3370 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8930 3325 50  0001 C CNN
 F 3 "~" H 9000 3325 50  0001 C CNN
+F 4 "RES SMD 10K OHM 5% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-10KERCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206JR-0710KL" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    9000 3325
 	-1   0    0    1   
 $EndComp
@@ -795,6 +827,10 @@ F 0 "R4" H 9205 3279 50  0000 R CNN
 F 1 "10k" H 9205 3370 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9205 3325 50  0001 C CNN
 F 3 "~" H 9275 3325 50  0001 C CNN
+F 4 "RES SMD 10K OHM 5% 1/4W 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "311-10KERCT-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Yageo" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "RC1206JR-0710KL" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    9275 3325
 	-1   0    0    1   
 $EndComp
@@ -852,6 +888,10 @@ F 0 "C3" H 910 2629 50  0000 R CNN
 F 1 "470 nF" H 910 2720 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 1063 2525 50  0001 C CNN
 F 3 "~" H 1025 2675 50  0001 C CNN
+F 4 "CAP CER 0.47UF 50V X7R 1206" H 0   0   50  0001 C CNN "Description"
+F 5 "1276-1118-1-ND" H 0   0   50  0001 C CNN "Digikey"
+F 6 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Mfg Name"
+F 7 "CL31B474KBHNNNE" H 0   0   50  0001 C CNN "Mfg Part Num"
 	1    1025 2675
 	-1   0    0    1   
 $EndComp
